@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5cbba3884ba7741f",
+        "id": "0f125211b098c6aa",
         "type": "tabs",
         "children": [
           {
-            "id": "f16093e535bf3516",
+            "id": "0da97a8527313407",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Elemental Incursion/The Elemental Incursion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Elemental Incursion/The Elemental Incursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Elemental Incursion/The Elemental Incursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Elemental Incursion/The Elemental Incursion.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,22 +140,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f16093e535bf3516",
+  "active": "9f629136b72d6bdc",
   "lastOpenFiles": [
-    "The Three Travelers/Characters/Wendy.md",
-    "TheThreeTravelers",
-    "The Three Travelers/Characters/Tumsy.md",
-    "The Three Travelers/Characters/Chitchuck.md",
     "The Travelers/Arnold Ted Eisenhower.md",
+    "The Travelers/Soren Magnison.md",
+    "Princes of the Apocalypse/Princes of the Apocalypse.md",
     "The Travelers/Erky Twoshoes.md",
     "The Travelers/Magni.md",
-    "The Travelers/Soren Magnison.md",
+    "Princes of the Apocalypse/Untitled.md",
     "The Elemental Incursion/The Elemental Incursion.md",
+    "Princes of the Apocalypse/Characters/Wendy.md",
+    "Princes of the Apocalypse/Characters/Chitchuck.md",
+    "Princes of the Apocalypse/Characters/Tumsy.md",
+    "Locations/Red Larch.md",
+    "Untitled.canvas",
+    "Images/Pasted image 20240411160757.png",
+    "Images",
+    "Locations",
+    "TheThreeTravelers",
     "The Three Travelers/The Three Travelers.md",
     "The Elemental Incursion/Characters",
-    "The Three Travelers/Characters",
+    "Princes of the Apocalypse/Characters",
     "The Elemental Incursion",
-    "The Three Travelers",
+    "Princes of the Apocalypse",
     "The Travelers/Main Characters",
     "The Travelers"
   ]
