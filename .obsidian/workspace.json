@@ -11,8 +11,12 @@
             "id": "0da97a8527313407",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ],
@@ -140,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f629136b72d6bdc",
+  "active": "0da97a8527313407",
   "lastOpenFiles": [
+    "Untitled.md",
     "The Travelers/Arnold Ted Eisenhower.md",
     "The Travelers/Soren Magnison.md",
     "Princes of the Apocalypse/Princes of the Apocalypse.md",
