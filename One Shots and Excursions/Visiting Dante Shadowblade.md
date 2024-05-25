@@ -1,5 +1,5 @@
 #oneshot #spelljammer #planet
-# The Broken Lands - Corunglain
+# Mystara - The Broken Lands - Corunglain
 5/24/2024
 
 # Heading to Mystara
