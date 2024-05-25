@@ -8,4 +8,4 @@ Ted, Soren, Erky, and Tumsy are heading to Lament on the spelljammer. They get c
 
 Once there, they navigate towards Sanguis Pax. It is a large city, the buildings of a gothic style, and there appears to be a very large cathedral in the middle of the town. The travelers decide to land the spelljammer outside of town and walk up to the gate, which is unlocked. They make their way inside and see that the streets are completely strewn with bodies.
 
-Erky begins to 
+Erky begins to ritual cast Detect Poison & Disease as Ted takes a closer look at one of the bodies. He discerns that they are dead with no pulse, gaunt, and their appendages appear to move freely. Looking around, a
