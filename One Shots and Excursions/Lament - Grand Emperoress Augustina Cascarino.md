@@ -9,7 +9,7 @@ Once there, they navigate towards Sanguis Pax. It is a large city, the buildings
 
 Erky begins to ritual cast Detect Poison & Disease as Ted takes a closer look at one of the bodies. He discerns that they are dead with no pulse, gaunt, and their appendages appear to move freely. Ted opens up the body's mouth to find fangs inside. As he moves back away from the body, the eyes flick towards Ted. These vampires appear to still be living, as much as vampires can live, but only just (6 levels of exhaustion).
 
-Ted bleeds into a cup for the vampire and Erky asserts control over the undead in case it tries to attack. The blood only helps it recover slightly, and the travelers ask where the Emperoress resides. The vampire points towards the cathedral and they make their way in that direction.
+Ted bleeds into a cup for the vampire and Erky asserts control over the undead in case it tries to attack. The blood only helps it recover slightly, and the travelers ask where the Emperoress resides. The vampire points towards the cathedral and they make their way in that direction. Soren is very vocal about disliking vampires and states that he has had issues with them before. It was a bad time apparently.
 
 ### Meeting Augustina Cascarino
 The interior of the cathedral is very large and the group sees a large throne, one that might have been made to seat a giant, sits at the far end of the hall. Sitting in the throne is Augustina Cascarino, leaning heavily on a very VERY large greatsword, it's blade pointing to the ground. As they walk closer, the Emperoress speaks to them, although it is very evident it takes much effort to do so.
@@ -23,4 +23,4 @@ The travelers are presented with an option by the DM. The group can
 - Let the vampires starve. They reap what they sow
 - Help them. They've made mistakes and have learned.
 
-They decide to help
+The travelers decide to help the vampire
