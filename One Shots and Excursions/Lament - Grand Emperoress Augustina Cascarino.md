@@ -3,7 +3,6 @@
 5/24/2024
 
 # Heading to Lament 
-
 Ted, Soren, Erky, and Tumsy are heading to Lament on the spelljammer. They get close, and they can see on the ship's readout that the planet is not travel advised. There is also an embargo placed upon the planet. As the ship gets closer to the planet's atmosphere, it can be seen that there are many rocks floating around it. One of those rocks flips turrets out and start shooting at The Chitchuck. Erky races to the front of the ship where Tumsy is piloting and puts his hand on the navigation and casts Shield through the ship. They make it past and into the planet's atmosphere.
 
 Once there, they navigate towards Sanguis Pax. It is a large city, the buildings of a gothic style, and there appears to be a very large cathedral in the middle of the town. The travelers decide to land the spelljammer outside of town and walk up to the gate, which is unlocked. They make their way inside and see that the streets are completely strewn with bodies.

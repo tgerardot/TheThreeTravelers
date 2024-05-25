@@ -3,7 +3,6 @@
 5/24/2024
 
 # Heading to Mystara
-
 Ted, Soren and Erky hop on the spelljammer and have Tumsy take them towards the planet Mystara in search of the tier 4 entity Dante Shadowblade. 
 
 Doing some flyovers, they find the location in the Broken Lands where the tier 4 they are in search of likely is. It is a group of what seem to be apartment buildings and one office building just off of the shore in a town called Corunglain. The travelers decide to land on the beach.
