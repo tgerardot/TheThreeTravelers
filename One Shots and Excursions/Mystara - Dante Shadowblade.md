@@ -1,6 +1,7 @@
+# 
 5/24/2024
 
-## Heading to Mystara
+# Heading to Mystara
 
 Ted, Soren and Erky hop on the spelljammer and have Tumsy take them towards the planet Mystara in search of the tier 4 entity Dante Shadowblade. 
 
