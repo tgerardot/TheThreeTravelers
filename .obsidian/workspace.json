@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One Shots and Excursions/Mystara - Dante Shadowblade.md",
+                "file": "One Shots and Excursions/Lament - Grand Emperoress Augustina Cascarino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One Shots and Excursions/Mystara - Dante Shadowblade.md",
+                "file": "One Shots and Excursions/Lament - Grand Emperoress Augustina Cascarino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One Shots and Excursions/Mystara - Dante Shadowblade.md"
+                "file": "One Shots and Excursions/Lament - Grand Emperoress Augustina Cascarino.md"
               }
             }
           }
@@ -160,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0da97a8527313407",
+  "active": "125d890fc4cccab8",
   "lastOpenFiles": [
-    "One Shots and Excursions/Lament - Grand Emperoress Augustina Cascarino.md",
     "One Shots and Excursions/Mystara - Dante Shadowblade.md",
+    "One Shots and Excursions/Lament - Grand Emperoress Augustina Cascarino.md",
     "Locations/Mystara.md",
     "One Shots and Excursions",
     "The Travelers/Arnold Ted Eisenhower.md",
