@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One Shots and Excursions/Mystara - Dante Shadowblade.md",
+                "file": "Princes of the Apocalypse/Princes of the Apocalypse.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One Shots and Excursions/Mystara - Dante Shadowblade.md",
+                "file": "Princes of the Apocalypse/Princes of the Apocalypse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One Shots and Excursions/Mystara - Dante Shadowblade.md",
+                "file": "Princes of the Apocalypse/Princes of the Apocalypse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One Shots and Excursions/Mystara - Dante Shadowblade.md"
+                "file": "Princes of the Apocalypse/Princes of the Apocalypse.md"
               }
             }
           }
@@ -153,6 +152,8 @@
   "lastOpenFiles": [
     "One Shots and Excursions/Lament - Grand Emperoress Augustina Cascarino.md",
     "One Shots and Excursions/Mystara - Dante Shadowblade.md",
+    "Locations/Lament.md",
+    "Locations/Red Larch.md",
     "Locations/Mystara.md",
     "One Shots and Excursions",
     "The Travelers/Arnold Ted Eisenhower.md",
@@ -165,7 +166,6 @@
     "Princes of the Apocalypse/Characters/Wendy.md",
     "Princes of the Apocalypse/Characters/Chitchuck.md",
     "Princes of the Apocalypse/Characters/Tumsy.md",
-    "Locations/Red Larch.md",
     "Untitled.canvas",
     "Images/Pasted image 20240411160757.png",
     "Images",
