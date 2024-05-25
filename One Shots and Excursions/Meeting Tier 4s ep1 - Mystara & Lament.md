@@ -8,4 +8,6 @@ Doing some flyovers, they find the location where the tier 4 they are in search 
 
 After landing, they encounter a man heading up and down the beach with a metal detector. They ask after Dante's whereabouts and the gentleman says he never heard of him before, but he knows of a person with a similar last name. 
 
-The group heads toward the office building and they realize that the complex of buildings is a large retirement community. They walk into the office building and there is a man behind the desk with 
+The group heads toward the office building and they realize that the complex of buildings is a large retirement community. They walk into the office building and there is a man behind the desk with quite an emo look about him described as "Tom Delonge, but dressed up a bit with a nice sea green polo."
+
+The travelers enquire about the cost of the apartments/living spaces and ask to see a unit. One of the employees comes out and 
