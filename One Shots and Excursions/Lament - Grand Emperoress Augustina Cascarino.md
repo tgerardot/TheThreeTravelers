@@ -19,4 +19,8 @@ She welcomes the travelers as her guests and attempts to cast a spell. The spell
 ### The option
 The crew learns that the city of vampires became greedy. They used to get their food from visitors to their planet. The visitors would freely provide some of their blood. Soon, however, the vampires began to take unwillingly, trapping visitors and draining them dry. The Concordant issued an embargo on the planet, preventing any trade, which inevitably led to the starvation of the entire population. 
 
-The travelers are presented with an option b
+The travelers are presented with an option by the DM. The group can 
+- Let the vampires starve. They reap what they sow
+- Help them. They've made mistakes and have learned.
+
+They decide to help
