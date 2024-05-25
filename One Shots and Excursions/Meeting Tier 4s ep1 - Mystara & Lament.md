@@ -12,4 +12,4 @@ The group heads toward the office building and they realize that the complex of 
 
 The travelers enquire about the cost of the apartments/living spaces and ask to see a unit. One of the employees comes out and ask to talk to Tom and pulls him aside. Ted is able to perceive that some occupants have died in their units. Tom needs to take care of those matters, but agrees to show the travelers to a unit to look around while he attends to them. 
 
-After getting into the unit, Erky makes his way to the bathroom mirror and casts Scrying to see what Tom is up to. He is 
+After getting into the unit, Erky makes his way to the bathroom mirror and casts Scrying to see what Tom is up to. He is taking care of the people in the room and casting a spell over their bodies, which turns out to be Gentle Repose. After casting the spells, he begins to head back to the party. Once there, they press him 
