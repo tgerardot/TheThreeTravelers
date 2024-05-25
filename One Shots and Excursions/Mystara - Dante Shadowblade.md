@@ -41,3 +41,10 @@ They decide to convince Dante to say goodbye, and in addition, they also say tha
 
 ## Conclusion
 Miss You by Blink 182 plays as the DM paints a picture of an emo funeral that the travelers attend to support Dante while the sweaters pack up the mirror and get it back to The Necralyst Spire.
+
+#### Linklist
+- [[Erky Twoshoes]] 
+- [[Arnold Ted Eisenhower]] 
+- [[Soren Magnison]] 
+- [[Tumsy]] 
+- [[Lament]] 
