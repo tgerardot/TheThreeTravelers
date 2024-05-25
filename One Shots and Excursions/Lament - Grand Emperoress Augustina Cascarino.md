@@ -10,4 +10,7 @@ Once there, they navigate towards Sanguis Pax. It is a large city, the buildings
 
 Erky begins to ritual cast Detect Poison & Disease as Ted takes a closer look at one of the bodies. He discerns that they are dead with no pulse, gaunt, and their appendages appear to move freely. Ted opens up the body's mouth to find fangs inside. As he moves back away from the body, the eyes flick towards Ted. These vampires appear to still be living, as much as vampires can live, but only just (6 levels of exhaustion).
 
-Ted bleeds into a cup for the vampire and Erky asserts control over the undead in case it tries to attack. The blood only helps it recover slightly, and the travelers ask where the Emperor
+Ted bleeds into a cup for the vampire and Erky asserts control over the undead in case it tries to attack. The blood only helps it recover slightly, and the travelers ask where the Emperoress resides. The vampire points towards the cathedral and they make their way in that direction.
+
+### Meeting Augustina Cascarino
+
