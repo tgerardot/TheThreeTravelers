@@ -21,4 +21,6 @@ Inside the world of the mirror is a bridge. On the outside of the bridge is dark
 
 Additionally, any who enter the maze also summons an identical version of themselves at the opposite end. These opposites will try and kill you and have all the capabilities that of the real version.
 
-The group begins to try and make their way through the maze and the going is slow. Ted begins to make some good progress and Soren is plowing ahead through the maze. They begin to encounter setbacks and at one point Dante is sent back to the beginning of the maze to stand right next to Erky. Erky grabs his wrist, takes an or
+The group begins to try and make their way through the maze and the going is slow. Ted begins to make some good progress and Soren is plowing ahead through the maze. They begin to encounter setbacks and at one point Dante is sent back to the beginning of the maze to stand right next to Erky. Erky grabs his wrist, takes an ornate doorknob from his pocket, and uses Dimension Door to teleport Dante next to his parents' spirits. They begin to follow Dante back to the mirror, but the opposites have begun to advance. 
+
+Erky, realizing that the
