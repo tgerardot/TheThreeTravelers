@@ -39,3 +39,4 @@ The travelers are now presented with an option by the DM. The group can
 They decide to convince Dante to say goodbye, and in addition, they also say that they will take care of the mirror so he will not be tempted to use it in the future. 
 
 ## Conclusion
+Miss You by Blink 182 plays as the DM paints a picture of an emo funeral that the travelers attend to support Dante while the sweaters pack up the mirror and get it back to The Necralyst Spire.
