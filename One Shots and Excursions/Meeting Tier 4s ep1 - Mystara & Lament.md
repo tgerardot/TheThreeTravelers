@@ -17,4 +17,4 @@ After getting into the unit, Erky makes his way to the bathroom mirror and casts
 Dante informs the group that he needs to go get his parents. They've died, and he needs to bring them back. Confused, the group follows Dante back to the office and through a false wall to find a staircase to the basement. There, they find a very large mirror that they learn is called The Bridge Between. 
 
 ### The Bridge Between 
-Inside the world of the mirror is a bridge. On the outside of the bridge is darkness with motes of light. Halfway across this bridge are the spirits
+Inside the world of the mirror is a bridge. On the outside of the bridge is darkness with motes of light. Halfway across this bridge are the spirits of Dante's parents. Dante says he is always able to lead them back if he can reach them, but he must reach them before they complete the crossing of the bridge. If they cross, they will be lost forever. The tricky part, is that there are invisible barrier
