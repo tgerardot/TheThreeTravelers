@@ -29,4 +29,6 @@ Ted is burning ki points to cast Wall of Fire to illuminate surrounding walls an
 
 Soren dashes back the ways he came, bonking along. 
 
-They make it back to the mirror and can see the oncoming opposites, and decide to go through the mirror after determining the opposites only exist if they are in the Between. 
+They make it back to the mirror and can see the oncoming opposites, and decide to go through the mirror after determining the opposites only exist if they are in the Between. They wait about 15 minutes for Dante to come through, but after not seeing him, they go back to the Between to see he is fighting his opposite. Erky casts Banishment on Dante's opposite and buys him enough time to get through the mirror.
+
+### The option
