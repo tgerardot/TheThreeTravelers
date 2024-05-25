@@ -23,4 +23,4 @@ The travelers are presented with an option by the DM. The group can
 - Let the vampires starve. They reap what they sow
 - Help them. They've made mistakes and have learned.
 
-The travelers decide to help the vampire
+The travelers decide to help the vampires. With their recent cruise on the river Styx, they know that there are many individuals who enjoy inflicting pain upon themselves. Perhaps they can find similarly minded individuals who would pay money in order to let the vampires take some of their blood....as long as pain was in
