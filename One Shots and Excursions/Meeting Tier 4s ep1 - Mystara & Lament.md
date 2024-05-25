@@ -34,4 +34,8 @@ They make it back to the mirror and can see the oncoming opposites, and decide t
 ### The option
 The travelers are now presented with an option by the DM. The group can 
 - Convince Dante to say goodbye to his parents, as this is no way to live
-- Let Dante ke
+- Let Dante keep bringing them back
+
+They decide to convince Dante to say goodbye, and in addition, they also say that they will take care of the mirror so he will not be tempted to use it in the future. 
+
+## Conclusion
