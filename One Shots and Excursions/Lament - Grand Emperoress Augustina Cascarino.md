@@ -12,4 +12,4 @@ Erky begins to ritual cast Detect Poison & Disease as Ted takes a closer look at
 Ted bleeds into a cup for the vampire and Erky asserts control over the undead in case it tries to attack. The blood only helps it recover slightly, and the travelers ask where the Emperoress resides. The vampire points towards the cathedral and they make their way in that direction.
 
 ### Meeting Augustina Cascarino
-
+The interior of the cathedral is very large and the group sees a large throne, one that might have been made to seat a giant, sits at the far end of the hall. Sitting in the throne is Augustina Cascarino, leaning heavin
