@@ -25,4 +25,8 @@ The group begins to try and make their way through the maze and the going is slo
 
 Erky, realizing that they have the same capabilities as his friends and himself, gets a little worried about the oncoming danger and quickly teleports back to the mirror, telling the others to quickly race back. 
 
-Ted is burning ki points to cast Wall of Fire to illuminate surrounding walls
+Ted is burning ki points to cast Wall of Fire to illuminate surrounding walls and get a better idea where they are. 
+
+Soren dashes back the ways he came, bonking along. 
+
+They make it back to the mirror and can see the oncoming opposites, and decide to go through the mirror after determining the opposites only exist if they are in the Between. 
