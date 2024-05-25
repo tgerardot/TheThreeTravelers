@@ -10,4 +10,4 @@ After landing, they encounter a man heading up and down the beach with a metal d
 
 The group heads toward the office building and they realize that the complex of buildings is a large retirement community. They walk into the office building and there is a man behind the desk with quite an emo look about him described as "Tom Delonge, but dressed up a bit with a nice sea green polo."
 
-The travelers enquire about the cost of the apartments/living spaces and ask to see a unit. One of the employees comes out and 
+The travelers enquire about the cost of the apartments/living spaces and ask to see a unit. One of the employees comes out and ask to talk to Tom and pulls him aside. Ted is able to perceive that some occupants have died in their units. 
