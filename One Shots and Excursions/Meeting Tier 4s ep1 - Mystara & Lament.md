@@ -8,4 +8,4 @@ Doing some flyovers, they find the location where the tier 4 they are in search 
 
 After landing, they encounter a man heading up and down the beach with a metal detector. They ask after Dante's whereabouts and the gentleman says he never heard of him before, but he knows of a person with a similar last name. 
 
-The group heads toward the office building and they realize that the complex of buildings is a large re
+The group heads toward the office building and they realize that the complex of buildings is a large retirement community. They walk into the office building and there is a man behind the desk with 
