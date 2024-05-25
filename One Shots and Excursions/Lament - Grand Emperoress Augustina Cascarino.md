@@ -16,4 +16,7 @@ The interior of the cathedral is very large and the group sees a large throne, o
 
 She welcomes the travelers as her guests and attempts to cast a spell. The spell is faltering, almost glitching, and Erky has seen this type of failing magic before. When wizards fall, their magic becomes unfocused and ineffective. She is attempting to cast Hero's Feast, but only manages to conjure up a loaf of bread and a ewer of water. She asks them to please eat. Erky and Soren oblige, and Ted approaches her on the throne. He asks for a rundown of what happened. 
 
-The crew learns that the city of vampires became greedy. They used to get their food from visitors to their planet. The visitors would freely provide some of their blood. Soon, however, the vampires began to take unwillingly, tra
+### The option
+The crew learns that the city of vampires became greedy. They used to get their food from visitors to their planet. The visitors would freely provide some of their blood. Soon, however, the vampires began to take unwillingly, trapping visitors and draining them dry. The Concordant issued an embargo on the planet, preventing any trade, which inevitably led to the starvation of the entire population. 
+
+The travelers are presented with an option b
